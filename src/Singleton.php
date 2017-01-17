@@ -1,5 +1,7 @@
 <?php
 
+namespace AndersonDRosa\Traits;
+
 trait Singleton
 {
     protected static $instance;
